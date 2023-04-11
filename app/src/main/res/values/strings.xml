@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">searchBook</string>
+
+    <string name="main_title">책 검색</string>
+    <string name="recently_search_word">최근 검색어</string>
+
+    <string name="request_enter_book_name">책 이름을 입력해주세요.</string>
+    <string name="search_button">검 색</string>
+
+    <string name="no_data">검색된 데이터가 없습니다.</string>
+
+    <string name="book_title">제목: </string>
+    <string name="book_author">저자: </string>
+    <string name="book_publisher">출판사: </string>
+    <string name="book_price">가격: </string>
+
+</resources>
